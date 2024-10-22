@@ -23,7 +23,7 @@ A **cryptocurrency app** built using **Swift** and **SwiftUI**. This app lets us
 ---
 
 ## Screenshots 📱
-![Crypto![Simulator](https://github.com/user-attachments/assets/8a03ba04-8da4-4f6c-a342-96082927f60a)  
+![Crypto](https://github.com/user-attachments/assets/8a03ba04-8da4-4f6c-a342-96082927f60a)  
 
 ---
 
